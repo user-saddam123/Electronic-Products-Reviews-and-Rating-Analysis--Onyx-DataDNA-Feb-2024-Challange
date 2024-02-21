@@ -2,7 +2,7 @@
 
 ## Analyzed and Submited by- Saddam Ansari @Aspiring Data Analyst [Linkeldin](https://www.linkedin.com/in/saddam-ansari-dataanalyst)
 
-### Live Dashboard at Novypro [Link]()
+### Live Dashboard at Novypro [Link](https://www.novypro.com/project/electronic-products-reviews-and-rating-analysis--onyx-data-dna-feb-2024-challenge-by-saddam-ansari-power-bi)
 
 #
 
